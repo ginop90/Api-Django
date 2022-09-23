@@ -1,11 +1,11 @@
 # test
 
 ===== poner a correr =====
-cd backend
+cd 1-api-django/backend
 chmod +x run.sh
 ./run.sh
 
 ===== borrar todo ====
-cd backend
+cd 1-api-django/backend
 chmod +x delete.sh
 ./delete.sh
